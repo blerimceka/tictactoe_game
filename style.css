@@ -1,0 +1,32 @@
+body{
+    background-color: #c5d1eb;
+}
+
+.title{
+    font-size: 65px; 
+    font-weight: 700;
+    color: #1F2F16;
+}
+
+.subtitle{
+    color: #1F2F16;
+}
+
+.btn1 { 
+    height: 80px; 
+    width: 80px; 
+    background-color: white; 
+    border: 0px transparent; 
+    border-radius: 50%; 
+    margin: 4px; 
+    padding: 4px; 
+    padding-top: 80px 0;
+    text-align: center;
+} 
+
+
+.btn {
+    background-color: #5a7684;
+    color: white;
+}
+
